@@ -1,9 +1,6 @@
 # Data-Warehousing-and-Power-BI-Integration-Project
 Repository for data warehousing &amp; BI Project using Oracle Cloud, Talend Open Studio for ETL, and Power BI. Designing data warehouses, ETL processes, table population, and interactive dashboard creation for insights and decision-making.
 
-
-# Data Warehousing and Power BI Integration Project
-
 ## Overview
 
 This repository contains assignments and projects related to Enterprise data warehousing and business intelligence (BI) using tools such as Oracle Cloud, Talend Open Studio for ETL processes, and Microsoft Power BI for data visualization and analysis. The project involves designing and implementing a data warehouse, populating tables, conducting ETL processes, and creating interactive dashboards for insights and decision-making.
